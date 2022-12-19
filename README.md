@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou a Ana! 
-- 👀 Me interesso por tecnologia, jogos e moda.
+- 👀 Me interesso por tecnologia e jogos
 - 🌱 Atualmente estou focada na transição de carreira para a área da tecnologia
 - 📫 contate-me: devpitombeira@gmail.com 
 
