@@ -1,6 +1,5 @@
 - 👋 Oi, eu sou a Ana! 
 - 👀 Me interesso por tecnologia
-- 🌱 Atualmente estou focada na transição de carreira para a área da tecnologia
 - 📫 contate-me: devpitombeira@gmail.com 
 
 <!---
